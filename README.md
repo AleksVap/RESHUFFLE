@@ -90,7 +90,7 @@ year={2025}
 
 Aleksandar Pavlović
 
-Research Center AI, Software and Safety
+Research Center AI, Software and IT-Security
 
 University of Applied Sciences Vienna (HCW)
 
